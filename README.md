@@ -3,7 +3,7 @@
 Projeto front-end com trabalhos reais na área de estruturas metálicas.
 
 ## 🔗 Site online
-👉 https://juniorcruz-dev.github.io/portfólio-junior-cruz/projeto-pouso-01/
+👉 https://juniorcruz-dev.github.io/portfólio-junior-cruz/projeto-landing-01/
 
 ## 🛠️ Tecnologias usadas
 - HTML5
